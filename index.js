@@ -1,0 +1,1 @@
+module.exports.getClientCredentialsToken = require('./lib/getClientCredentialsToken');

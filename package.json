@@ -1,0 +1,12 @@
+{
+  "name": "oc-plugin-oauth2-client",
+  "version": "1.0.0",
+  "description": "OpenComponents plugin for integration with OAUTH2",
+  "main": "index.js",
+  "scripts": { },
+  "author": "Piotr Bazydło <piotr.bazydlo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "client-oauth2": "^4.2.1"
+  }
+}
